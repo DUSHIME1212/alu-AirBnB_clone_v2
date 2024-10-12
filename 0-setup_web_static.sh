@@ -33,3 +33,4 @@ sudo nginx -t
 
 # Restart Nginx to apply the changes
 sudo service nginx restart
+
